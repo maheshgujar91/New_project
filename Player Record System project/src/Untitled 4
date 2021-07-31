@@ -1,0 +1,33 @@
+com.criatosoft.playermanagement.model;                                 
+public class Player 
+prank;                                                             
+pname;
+paddss;
+pteam_name;
+pteam_location;
+
+
+package com.criatosoft.playermanagement.serviceImpl;
+public class India implements World {
+
+
+
+
+package com.criatosoft.playermanagement.service;
+interface World
+public void addPlayer();
+public void viewPlayer();
+public void viewScore() ;
+public void updateScore();
+
+
+
+
+
+package com.criatosoft.playermanagement.client;
+public class Test {
+	
+public static void main(String[] args) throws IOException {
+		
+		Scanner sc=new Scanner(System.in);
+		call all method use switch case
